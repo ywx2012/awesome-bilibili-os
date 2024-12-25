@@ -30,10 +30,9 @@ B站上操作系统视频还是比较多的，初步整理了一下，没时间�
 | [2024-07-31][pilot-vmxkernel-os] | [vmxkernel-os][vmxkernel-os] | [_-1VOID1-_][bup-_-1VOID1-_] | | Rust | QEMU | x86(64) | |
 | [2024-08-01][pilot-Neumann] | [Neumann][Neumann] | [乔乔会编程][bup-乔乔会编程] | 873546484 | C | Bochs, QEMU, VBox, VMWare | x86(32) | |
 | [2024-08-18][pilot-Uinxed] | [Uinxed][Uinxed] | [GNU_MicroFish][bup-GNU_MicroFish] | | C | QEMU | x86(32) | |
-| [2024-08-19][pilot-HanOS] | HanOS[^HanOS] | [linhhanpy][bup-linhhanpy] | | 汇编? | VMWare | x86(?) | 运行Python |
+| [2024-08-19][pilot-HanOS] | [HanOS][HanOS] | [linhhanpy][bup-linhhanpy] | | 汇编? | VMWare | x86(?) | 运行Python |
 | [2024-09-27][pilot-CoolPotOS] | [CoolPotOS][CoolPotOS] | [XIAOYI80386][bup-XIAOYI80386] | | | VMWare | x86(32) | |
 
-[^HanOS]: CSDN联系作者获取源码，https://blog.csdn.net/linhhanpy/article/details/141188642
 [^zlang]: 作者自制
 
 [pilot-BookOS]: https://www.bilibili.com/video/BV1Ft411s7NN/
@@ -134,6 +133,7 @@ B站上操作系统视频还是比较多的，初步整理了一下，没时间�
 [bup-GNU_MicroFish]: https://space.bilibili.com/516952936/
 
 [pilot-HanOS]: https://www.bilibili.com/video/BV1mZp2eFEQX/
+[HanOS]: https://github.com/linhhanpy/HanOS
 [bup-linhhanpy]: https://space.bilibili.com/1073404263/
 
 [pilot-CoolPotOS]: https://www.bilibili.com/video/BV1atxnevEzZ/
